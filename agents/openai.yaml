@@ -1,0 +1,7 @@
+interface:
+  display_name: "Duo Explainer Studio"
+  short_description: "Duo 讲解动画短视频全流程：脚本、动画、配音、字幕到成片"
+  default_prompt: "使用 $duo-explainer-studio 从讲解短视频的脚本框架开始，与我逐步确认并生成最终视频。"
+
+policy:
+  allow_implicit_invocation: true
